@@ -26,7 +26,7 @@ To run this project, you need to execute each cell in the Jupyter notebook **seq
     - After all helper functions are executed, you can run the two main functions with the appropriate `pdf_path`.
 
 3. **Testing Other PDFs**
-    - To test other pdfs, simply upload your pdf to the Data folder, and adjust `pdf_path` accordingly in the cells where            
+    - To test other pdfs, simply upload your pdf to the **Data** folder, and adjust `pdf_path` accordingly in the cells where            
       (`get_highest_value_in_pdf()` or `get_greatest_number_in_pdf()`) are run.
 
 ### Project Structure:
